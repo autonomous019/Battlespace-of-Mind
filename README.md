@@ -8,16 +8,16 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <a href="https://github.com/autonomous019/Artificial-Intelligence-Research/wiki">AI Wiki for Software Engineers</a>
 
 
-Table of Contents
-Linear Regression
-Classification: Logistic Regression, K-Nearest Neighbor Clustering, Naive Bayes (Topics), Support Vector Machines
-Decision Trees
-Ensemble Methods
-Deep Learning
-Deep Reinforcement Learning and OpenAI Gym
-Evolutionary Computation: Genetic Algorithms, Genetic Programming and Neuroevolution
-Visual AI: Convolutional Neural Networks, Image Recognition and Generative Adversarial Networks
-AI and Robotics: Robot Operating System (ROS), Drones, Swarming and Hive Minds
-AI in Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems
-AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI
-AI and Cybersecurity
+<h2>Table of Contents<h2>
+<li>Linear Regression
+<li>Classification: Logistic Regression, K-Nearest Neighbor Clustering, Naive Bayes (Topics), Support Vector Machines
+<li>Decision Trees
+<li>Ensemble Methods
+<li>Deep Learning
+<li>Deep Reinforcement Learning and OpenAI Gym
+<li>Evolutionary Computation: Genetic Algorithms, Genetic Programming and Neuroevolution
+<li>Visual AI: Convolutional Neural Networks, Image Recognition and Generative Adversarial Networks
+<li>AI and Robotics: Robot Operating System (ROS), Drones, Swarming and Hive Minds
+<li>AI in Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems
+<li>AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI
+<li>AI and Cybersecurity
