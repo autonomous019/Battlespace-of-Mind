@@ -8,7 +8,7 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <a href="https://github.com/autonomous019/Artificial-Intelligence-Research/wiki">AI Wiki for Software Engineers</a>
 
 
-<h2>Table of Contents<h2>
+<a href="https://github.com/autonomous019/Artificial-Intelligence-Research/wiki"><h2>Table of Contents</h2></a>
 <li>Linear Regression
 <li>Classification: Logistic Regression, K-Nearest Neighbor Clustering, Naive Bayes (Topics), Support Vector Machines
 <li>Decision Trees
