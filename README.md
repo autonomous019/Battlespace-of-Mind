@@ -19,5 +19,5 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <li>Visual AI: Convolutional Neural Networks, Image Recognition and Generative Adversarial Networks
 <li>AI and Robotics: Robot Operating System (ROS), Drones, Swarming and Hive Minds
 <li>AI in Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems
-<li>AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI
+<li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a>
 <li>AI and Cybersecurity
