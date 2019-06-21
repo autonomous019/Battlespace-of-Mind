@@ -18,7 +18,7 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <li>Evolutionary Computation: Genetic Algorithms, Genetic Programming and Neuroevolution
 <li>Visual AI: Convolutional Neural Networks, Image Recognition and Generative Adversarial Networks
 <li>AI and Robotics: Robot Operating System (ROS), Drones, Swarming and Hive Minds
-<li>AI in Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems
+<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205_%20AI%20Overview.docx">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems</a>
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a>
 <li>AI and Cybersecurity
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
