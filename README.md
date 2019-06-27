@@ -20,4 +20,5 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a>
 <li>AI and Cybersecurity
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
+<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/blob/master/Part%202_%20Psyops%20and%20Information%20Operations.pdf">Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 <a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">test</a>
