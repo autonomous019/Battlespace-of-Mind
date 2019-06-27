@@ -20,8 +20,17 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <h3>Battlespace of Mind: AI and Neuroweapons (rough drafts)</h3>
 
-<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205_%20AI%20Overview.docx">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a>
-<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a>
-<li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
+<li>Military Intelligence and Neuroweapons: A Historical Background to Directions in Science</li>
+
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%202_%20Psyops%20and%20Information%20Operations.pdf">Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
-<a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">test</a>
+
+<li>Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</li>
+
+<li>Neuroweapons: 1945-Present (United States, Soviet Union, UK)</li>
+
+<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li>
+  
+<li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
+
+<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205_%20AI%20Overview.docx">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
+
