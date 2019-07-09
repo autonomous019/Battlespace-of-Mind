@@ -24,7 +24,7 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%202_%20Psyops%20and%20Information%20Operations.pdf">Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 
-<li>Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</li>
+<li><a href="https://docs.google.com/document/d/1gOcEDHNm4R1U3U4tvQ43kyaudLVqmkOVDCAa2jjGR30">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
 
 <li>Neuroweapons: 1945-Present (United States, Soviet Union, UK)</li>
 
