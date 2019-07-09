@@ -28,7 +28,7 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <li>Neuroweapons: 1945-Present (United States, Soviet Union, UK)</li>
 
-<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li>
+<li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li> [<a href="https://docs.google.com/document/d/1Bh-vkjz47TWVdx9CV2m6TvHokJAvhdlsarffWUMkEoY">Google Doc Version</a>]
   
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
 
