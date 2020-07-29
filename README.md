@@ -32,6 +32,9 @@ This repository currently is comprised of the wiki, link is above. A collection 
   
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
 
+<li><a href=https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.odt?raw=true">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
+
+
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205_%20AI%20Overview.docx">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
 <li>Biophysics of Neuroweapons: Suppression of Technology for National Defense and Capitalization</li>
 
