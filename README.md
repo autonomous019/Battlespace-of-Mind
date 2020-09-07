@@ -20,7 +20,7 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <h3>Battlespace of Mind: AI and Neuroweapons (rough drafts)</h3>
 
-<li>Military Intelligence and Neuroweapons: A Historical Background to Directions in Science</li>
+<li>Military Intelligence and Neuroweapons: A Historical Background to Military Intelligence influence on Science</li>
 
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%202_%20Psyops%20and%20Information%20Operations.pdf">Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 
