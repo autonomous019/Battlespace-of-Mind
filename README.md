@@ -30,6 +30,10 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li> [<a href="https://docs.google.com/document/d/1Bh-vkjz47TWVdx9CV2m6TvHokJAvhdlsarffWUMkEoY">Google Doc Version</a>]
 
+
+<li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Reflexive%20Control.odt?raw=true">Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
+
+
 <li>Hypnotic Susceptibility and Neuroweapons</li>
 
 <li>Radar in Neurowarfare (United States, Soviet Union, UK)</li>
