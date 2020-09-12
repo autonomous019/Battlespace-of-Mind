@@ -26,7 +26,8 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <li><a href="https://docs.google.com/document/d/1gOcEDHNm4R1U3U4tvQ43kyaudLVqmkOVDCAa2jjGR30">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
 
-<li>Neuroweapons: 1945-Present (United States, Soviet Union, UK)</li>
+<li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.odt?raw=true">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
+
 
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li> [<a href="https://docs.google.com/document/d/1Bh-vkjz47TWVdx9CV2m6TvHokJAvhdlsarffWUMkEoY">Google Doc Version</a>]
 
