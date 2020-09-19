@@ -32,6 +32,9 @@ This repository currently is comprised of the wiki, link is above. A collection 
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li> [<a href="https://docs.google.com/document/d/1Bh-vkjz47TWVdx9CV2m6TvHokJAvhdlsarffWUMkEoY">Google Doc Version</a>]
 
 <li>Radar in Neurowarfare (United States, Soviet Union, UK)</li>
+
+<li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
+
   
 <li><a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
 
