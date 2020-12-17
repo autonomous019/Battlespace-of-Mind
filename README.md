@@ -40,6 +40,8 @@ This repository currently is comprised of the wiki, link is above. A collection 
 
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
 
+Videos about the above content made by Mhichil Mac Cairrain <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrBNgs8kbQMdpz-3wbTQr28k">Information Warfare Tutorial</a>
+
 
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.odt?raw=true">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
 
