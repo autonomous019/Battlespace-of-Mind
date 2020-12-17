@@ -47,4 +47,5 @@ Videos about the above content made by Mhichil Mac Cairrain <a href="https://www
 
 <li><a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
 
+<P>
 <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrBNgs8kbQMdpz-3wbTQr28k">Information Warfare Tutorial for Left-Libertarians (aka Progressives)</a>
