@@ -5,7 +5,6 @@ Independent Cybersecurity Consultant
 
 <h3>Battlespace of Mind: (rough drafts)</h3>
 
-<li>Military Intelligence and Neuroweapons: A Historical Background to Military Intelligence influence on Science</li>
 
 <li>Chapter 1 - Post WWI Information Warfare Technology and the Black Reichswehr</li>
 
@@ -29,12 +28,6 @@ Independent Cybersecurity Consultant
 <li>Chapter 8: Quantum Consciousness <a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
 
 <li>Chapter 9: Quantum Computation and QML</li>
-
-
-
-<li></li>
-
-<li></li>
 
 
 
