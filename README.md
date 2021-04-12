@@ -2,6 +2,11 @@
 by Michael J. McCarron 2021 macciarain@protonmail.com
 Independent Cybersecurity Consultant
 
+This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocogntive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.
+
+It is a part of cybersecurity studies as it relates to the cyber of both machine and animals, in the case of animals using computer based algorithms to influence biological objects.  The primary target is the human brain, using scientific technology to alter human organisms and functionality.
+
+Derivative Work:  <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Countermeasures to Neuroweapons</a> 
 
 <h3>Battlespace of Mind: (rough drafts)</h3>
 
