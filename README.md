@@ -8,7 +8,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 Derivative Work:  <li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
 
-<li>Entanglement Medicine, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. </h3>
+<li><a href="https://github.com/autonomous019/Ahronov-Bohm-Entanglement-Medicine">Entanglement Medicine</a>, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
 
 <h3>Battlespace of Mind: (rough drafts)</h3>
 the following are very rough versions of chapters currently being written.
