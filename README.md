@@ -6,12 +6,12 @@ This book is an investigation into cybernetics, automation, AI, cognitive scienc
 
 It is a part of cybersecurity studies as it relates to the cyber of both machine and animals, in the case of animals using computer based algorithms to influence biological objects.  The primary target is the human brain, using scientific technology to alter human organisms and functionality.
 
-Derivative Work:  <a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.
+Derivative Work:  <li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
 
-Entanglement Medicine, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
+<li>Entanglement Medicine, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. </h3>
 
 <h3>Battlespace of Mind: (rough drafts)</h3>
-
+the following are very rough versions of chapters currently being written.
 
 <li>Chapter 1 - Post WWI Information Warfare Technology and the Black Reichswehr</li>
 
