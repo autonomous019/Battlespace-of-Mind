@@ -1,4 +1,4 @@
-# Battlespace of Mind: Cybernetics in Warfare
+# Battlespace of Mind: AI and Cybernetics in Information Warfare
 by Michael J. McCarron 2021 macciarain@protonmail.com
 Independent Cybersecurity Consultant
 
