@@ -19,7 +19,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 2: Psyops and Information Operations <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%202%20-%20Psyops%20and%20Information%20Operations.docx?raw=true"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 
-<li>Chapter 3: Neuroweapons Begining<a href="https://docs.google.com/document/d/1gOcEDHNm4R1U3U4tvQ43kyaudLVqmkOVDCAa2jjGR30">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
+<li>Chapter 3: Neuroweapons Begining<a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%203%20-%20Neuroweapons.odt?raw=true">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
 
 
 <li>Chapter 4: Lessons from an American Weapons Designer (Dr. John Norseen) <a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li> [<a href="https://docs.google.com/document/d/1Bh-vkjz47TWVdx9CV2m6TvHokJAvhdlsarffWUMkEoY">Google Doc Version</a>]
