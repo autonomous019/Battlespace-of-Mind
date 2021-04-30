@@ -43,6 +43,6 @@ the following are very rough versions of chapters currently being written.
 <li>Chapter 11: US Deception Management<a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
 
 
-
+ 
 <P>
 <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrBNgs8kbQMdpz-3wbTQr28k">Information Warfare Tutorial for Left-Libertarians (aka Progressives)</a>
