@@ -30,7 +30,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 5, Part 3: Cybernetic Reflexive Control <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205c%20Reflexive%20Control.odt?raw=true">Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
 
-<li>Chapter 6: Physics of Neuroweapons <a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.odt?raw=true">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
+<li>Chapter 6: Physics of Neuroweapons <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.odt?raw=true">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
 
 <li>Chapter 7: Radar and Neuroweapons</li>
 
