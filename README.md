@@ -40,7 +40,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 10: Hypnosis in Warfare <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.odt?raw=true">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
 
-<li>Chapter 11: US Deception Management<a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
+<li>Chapter 11: US Deception Management<a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
 
 
  
