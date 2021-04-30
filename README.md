@@ -24,7 +24,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 4: Lessons from an American Weapons Designer (Dr. John Norseen) <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%204%20-%20Lessons%20from%20an%20American%20Weapons%20Designer.odt?raw=true">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li> [<a href="https://docs.google.com/document/d/1Bh-vkjz47TWVdx9CV2m6TvHokJAvhdlsarffWUMkEoY">Google Doc Version</a>]
 
-<li>CHapter 5: Cybernetic Automated Control and Tracking <a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205:%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
+<li>CHapter 5: Cybernetic Automated Control and Tracking <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205%20-%20%20AI%20Overview.docx?raw=true">Cybernetics and Automated Control</a></li>
   
 <li>Chapter 5, Part 2: AI in Games and Military Simulations <a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205_%20AI%20Overview.docx">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
 
