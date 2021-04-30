@@ -34,7 +34,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 7: Radar and Neuroweapons</li>
 
-<li>Chapter 8: Quantum Consciousness <a href="https://github.com/autonomous019/Artificial-Intelligence-Research/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
+<li>Chapter 8: Quantum Consciousness <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
 
 <li>Chapter 9: Quantum Computation and QML</li>
 
