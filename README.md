@@ -17,7 +17,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 1 - Post WWI Information Warfare Technology and the Black Reichswehr</li>
 
-<li>Chapter 2: Psyops and Information Operations <a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%202_%20Psyops%20and%20Information%20Operations.pdf"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
+<li>Chapter 2: Psyops and Information Operations <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%202%20-%20Psyops%20and%20Information%20Operations.docx?raw=true"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 
 <li>Chapter 3: Neuroweapons Begining<a href="https://docs.google.com/document/d/1gOcEDHNm4R1U3U4tvQ43kyaudLVqmkOVDCAa2jjGR30">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
 
