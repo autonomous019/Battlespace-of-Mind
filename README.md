@@ -26,7 +26,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 5: Cybernetic Automated Control and Tracking <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205-%20Automated%20Control%20and%20Tracking.odt?raw=true">Cybernetics and Automated Control</a></li>
   
-<li>Chapter 5, Part 2: AI in Games and Military Simulations <a href="https://raw.githubusercontent.com/autonomous019/Artificial-Intelligence-Research/master/Part%205_%20AI%20Overview.docx">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
+<li>Chapter 5, Part 2: AI in Games and Military Simulations <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205%20-%20%20AI%20Overview.odt?raw=true">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
 
 <li>Chapter 5, Part 3: Cybernetic Reflexive Control <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205c%20Reflexive%20Control.odt?raw=true">Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
 
