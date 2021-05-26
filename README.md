@@ -15,7 +15,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Introduction</li>
 
-<li>Chapter 1 - Post WWI Information Warfare Technology and the Black Reichswehr</li>
+<li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.odt">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
 
 <li>Chapter 2: Psyops and Information Operations <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%202%20-%20Psyops%20and%20Information%20Operations.odt?raw=true"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 
