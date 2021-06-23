@@ -50,7 +50,8 @@ Derivative Work:  <li><a href="https://github.com/autonomous019/ahronov-bohm-cyb
 
 
  
-<P>
+<hr>
+
   <h3>Video Presentation covering Information Warfare and Technology</h3>
   
 <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrBNgs8kbQMdpz-3wbTQr28k">Information Warfare Tutorial for Left-Libertarians (aka Progressives)</a>
