@@ -6,10 +6,6 @@ This book is an investigation into cybernetics, automation, AI, cognitive scienc
 
 It is a part of cybersecurity studies as it relates to the cyber of both machine and animals, in the case of animals using computer based algorithms to influence biological objects.  The primary target is the human brain, using scientific technology to alter human organisms and functionality.
 
-Derivative Work:  <li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
-
-<li><a href="https://github.com/autonomous019/entanglement-medicine">Entanglement Medicine</a>, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
-
 <h3>Battlespace of Mind: (rough drafts)</h3>
 the following are very rough versions of chapters currently being written.
 
@@ -41,6 +37,16 @@ the following are very rough versions of chapters currently being written.
 <li>Chapter 10: Hypnosis in Warfare <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.odt?raw=true">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
 
 <li>Chapter 11: US Deception Management <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
+
+
+<hr>
+
+
+
+Derivative Work:  <li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
+
+<li><a href="https://github.com/autonomous019/entanglement-medicine">Entanglement Medicine</a>, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
+
 
 
  
