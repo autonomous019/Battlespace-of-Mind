@@ -43,7 +43,9 @@ the following are very rough versions of chapters currently being written.
 
 
 
-Derivative Work:  <li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
+<h3>Derivative Work:</h3> 
+
+<li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
 
 <li><a href="https://github.com/autonomous019/entanglement-medicine">Entanglement Medicine</a>, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
 
