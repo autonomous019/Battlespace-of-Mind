@@ -49,7 +49,9 @@ the following are very rough versions of chapters currently being written.
 
 <li><a href="https://github.com/autonomous019/entanglement-medicine">Entanglement Medicine</a>, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
 
-
+<li><a href="https://github.com/autonomous019/entanglement-climate-change">Entanglement and Climate Change</a> quantum entanglement in Cleaning the Environment, providing new energy sources through non-radioactive waste, clean nuclear energy, higher fuel efficiency in CO2 based fuels, etc. </a>
+  
+  </li>
 
  
 <hr>
