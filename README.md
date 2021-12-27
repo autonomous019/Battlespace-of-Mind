@@ -9,7 +9,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <h3>Battlespace of Mind: (rough drafts)</h3>
 the following are very rough versions of chapters currently being written.
 
-
+<p>&nbsp;</p>
 
 <li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Introduction.odt?raw=true">Introduction</a></li>
 
