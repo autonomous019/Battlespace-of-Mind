@@ -32,7 +32,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 8: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
 
-<li>Chapter 9: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true"> Counter-Measures using the Ahronov-Bohm Effect</a> Are Changing Angular Velocity Magnetic Fields a Countermeasure to Non-Local Pulsed Attacks?</li>
+<li>Chapter 9: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%209%20=%20Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true"> Counter-Measures using the Ahronov-Bohm Effect</a> Are Changing Angular Velocity Magnetic Fields a Countermeasure to Non-Local Pulsed Attacks?</li>
 
 <li>Chapter 10: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.odt?raw=true">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
 
