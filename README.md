@@ -9,7 +9,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <h3>Battlespace of Mind: (rough drafts)</h3>
 the following are very rough versions of chapters currently being written.
 
-<li>Introduction</li>
+<li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Introduction.odt?raw=true">Introduction</a></li>
 
 <li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.odt">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
 
