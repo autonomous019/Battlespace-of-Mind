@@ -1,5 +1,5 @@
 # Battlespace of Mind: AI and Cybernetics in Information Warfare
-by Michael J. McCarron 2021 macciarain@protonmail.com
+by Mícheál Seosamh MacCiaráin 2021 macciarain@protonmail.com
 Independent Cybersecurity Consultant
 
 This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocognitive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.
