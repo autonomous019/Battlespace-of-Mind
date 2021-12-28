@@ -272,7 +272,7 @@ enhance genetic adaptations.</font></font></font></p>
 </p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
 <font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-  4 &ndash; </b> Lessons from an American Weapons Developers</font></font></font></p>
+  4 &ndash;  Lessons from an American Weapons Developers</b></font></font></font></p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
 <font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">This
 chapter does a dive into the work of Lockheed-Martin weapons
