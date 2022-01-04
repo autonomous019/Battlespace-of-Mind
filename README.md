@@ -508,7 +508,7 @@ Casimir Effect to explain consciousness.</span></font></font></font></p>
 <font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
 Russian Research, covers the contributions of Russian scientists to
 the study of quantum consciousness: Akimov, Sokolov, Bobrov, as well
-as German researcher Barron Manfred von Ardenne (Istok Institute),
+as German researcher Barron Manfred von Ardenne,
 and the Russian researcher, Devyatkov, reverse engineering of Nazi
 Microwave generators suspected of being used as Neuroweaponry.
 Finally, reviewing the work of Kaznacheev in terms of remote
