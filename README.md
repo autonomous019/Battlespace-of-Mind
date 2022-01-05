@@ -40,6 +40,20 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
 
+<b>Appendices:</b>
+<br /><br />
+
+
+<li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">General Timeline of the Subjects covered in this book</a></li>
+
+
+<li>Appendix B: Timeline of Wiemar Republic  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">historical account of the Weimar era of Germany</a></li>
+
+
+<li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
+
+
+
 
 <hr>
 
