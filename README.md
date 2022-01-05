@@ -44,7 +44,7 @@ the following are very rough versions of chapters currently being written.
 <br /><br />
 
 
-<li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">General Timeline of the Subjects covered in this book</a></li>
+<li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20A_%20Timeline.docx?raw=true">General Timeline of the Subjects covered in this book</a></li>
 
 
 <li>Appendix B: Timeline of Wiemar Republic  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">historical account of the Weimar era of Germany</a></li>
