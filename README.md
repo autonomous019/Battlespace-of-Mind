@@ -40,8 +40,10 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
 
+
+<br />
 <b>Appendices:</b>
-<br /><br />
+<br />
 
 
 <li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20A_%20Timeline.docx?raw=true">General Timeline of the Subjects covered in this book</a></li>
