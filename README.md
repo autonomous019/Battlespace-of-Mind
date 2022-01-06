@@ -30,7 +30,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Chapter 6:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.odt?raw=true">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
 
-<li>Chapter 7: Radar and Neuroweapons</li>
+<li>Chapter 7: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%207%20-%20Radar%20and%20Neuroweapons.odt?raw=true">Radar and Neuroweapons</a> The use of Radar in Neuroweapons applications is discussed, as well as radar holography and the human eye as a fractal antenna.</li>
 
 <li>Chapter 8: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
 
