@@ -495,7 +495,7 @@ chapter covers the use of Radar and Radar techniques in neuroweapons.</span></fo
 
 I. EM Spectrum and Radar Bands <br/>
 II. History of Radar<br/>
-III. Illlumination of Radar<br/>
+III. Illumination of Radar<br/>
 IV. Radar Equations<br/>
 V. Radar in Intelligence and Surveillance<br/>
 VI. Time Reversed Waves<br/>
