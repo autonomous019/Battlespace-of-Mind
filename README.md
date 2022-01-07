@@ -492,15 +492,16 @@ A Timeline of Gravitational Technology</span></font></font></font></p>
 <font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
 chapter covers the use of Radar and Radar techniques in neuroweapons.</span></font></font></font></p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+
+I. EM Spectrum and Radar Bands <br/>
+II. History of Radar<br/>
+III. Illlumination of Radar<br/>
+IV. Radar Equations<br/>
+V. Radar in Intelligence and Surveillance<br/>
+VI. Time Reversed Waves<br/>
+VII. Eyes as Radar, Eyes as Antenna<br/>
+  <br/>
 <br/>
-<br/>
-I. EM Spectrum and Radar Bands
-II. History of Radar
-III. Illlumination of Radar
-IV. Radar Equations
-V. Radar in Intelligence and Surveillance
-VI. Time Reversed Waves
-VII. Eyes as Radar, Eyes as Antenna
 </p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
 <font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
