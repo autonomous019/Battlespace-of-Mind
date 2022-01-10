@@ -11,7 +11,7 @@ the following are very rough versions of chapters currently being written.
 
 <p>&nbsp;</p>
 
-<li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.pdf">Introduction</a></li>
+<li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Introduction.pdf">Introduction</a></li>
 
 <li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.pdf">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
 
