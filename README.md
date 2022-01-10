@@ -11,34 +11,34 @@ the following are very rough versions of chapters currently being written.
 
 <p>&nbsp;</p>
 
-<li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Introduction.odt?raw=true">Introduction</a></li>
+<li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.pdf">Introduction</a></li>
 
-<li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.odt">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
+<li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.pdf">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
 
-<li>Chapter 2: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%202%20-%20Psyops%20and%20Information%20Operations.odt?raw=true"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
+<li>Chapter 2: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%202%20-%20Psyops%20and%20Information%20Operations.pdf"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
 
-<li>Chapter 3: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%203%20-%20Neuroweapons.odt?raw=true">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
+<li>Chapter 3: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%203%20-%20Neuroweapons.pdf">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
 
 
-<li>Chapter 4: Lessons from an American Weapons Designer (Dr. John Norseen) <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%204%20-%20Lessons%20from%20an%20American%20Weapons%20Designer.odt?raw=true">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li>
+<li>Chapter 4: Lessons from an American Weapons Designer (Dr. John Norseen) <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%204%20-%20Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li>
 
-<li>Chapter 5: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205-%20Automated%20Control%20and%20Tracking.odt?raw=true">Cybernetics and Automated Control</a></li>
+<li>Chapter 5: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205-%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
   
-<li>Chapter 5, Part 2:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205%20-%20%20AI%20Overview.odt?raw=true">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
+<li>Chapter 5, Part 2:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205%20-%20%20AI%20Overview.pdf">AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
 
-<li>Chapter 5, Part 3:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205c%20Reflexive%20Control.odt?raw=true">Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
+<li>Chapter 5, Part 3:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205c%20Reflexive%20Control.pdf">Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
 
-<li>Chapter 6:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.odt?raw=true">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
+<li>Chapter 6:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.pdf">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
 
-<li>Chapter 7: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%207%20-%20Radar%20and%20Neuroweapons.odt?raw=true">Radar and Neuroweapons</a> The use of Radar in Neuroweapons applications is discussed, as well as radar holography and the human eye as a fractal antenna.</li>
+<li>Chapter 7: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%207%20-%20Radar%20and%20Neuroweapons.pdf">Radar and Neuroweapons</a> The use of Radar in Neuroweapons applications is discussed, as well as radar holography and the human eye as a fractal antenna.</li>
 
-<li>Chapter 8: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%208%20-%20Quantum%20Consciousness.odt?raw=true">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
+<li>Chapter 8: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%208%20-%20Quantum%20Consciousness.pdf">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
 
-<li>Chapter 9: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%209%20=%20Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.odt?raw=true"> Counter-Measures using the Ahronov-Bohm Effect</a> Are Changing Angular Velocity Magnetic Fields a Countermeasure to Non-Local Pulsed Attacks?</li>
+<li>Chapter 9: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%209%20-%20Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.pdf"> Counter-Measures using the Ahronov-Bohm Effect</a> Are Changing Angular Velocity Magnetic Fields a Countermeasure to Non-Local Pulsed Attacks?</li>
 
-<li>Chapter 10: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.odt?raw=true">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
+<li>Chapter 10: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.pdf">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
 
-<li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.odt?raw=true">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
+<li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.pdf">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
 
 
 <br />
