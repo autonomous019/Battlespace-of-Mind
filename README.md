@@ -142,7 +142,7 @@ the following chapters:</font></font></font></p>
 </p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
 <font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><b>Chapter
-1 &ndash; The Black Internationalist</b></font></font></font></p>
+1 &ndash; The Black International</b></font></font></font></p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
 <font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">	This
 chapter covers the history of Military Intelligence in Weimar Germany
