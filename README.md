@@ -53,7 +53,7 @@ the following are very rough versions of chapters currently being written.
 
 <li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
 
-<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205%20-%20%20AI%20Overview.pdf">AI and Simulations Architecture - AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
+<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
 
 
 <hr>
