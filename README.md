@@ -53,22 +53,14 @@ the following are very rough versions of chapters currently being written.
 
 <li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
 
-<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a>
-
-Artificial Intelligence and Simulations
+<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - </a>
 
 a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity
-
 b. Serious Games (Simulations), Game AI and Military Intelligence. Covers Reflexive Rewards and Gaming, AI in Simulation Design, the Game World, Agents, Elements of an AI Game, Kinematics in Simulated Worlds.
-
 c. Decision Making, covers the use of AI in making decisions in simulations with Behavior Trees and Goal Oriented Action Planning (GOAP).
-
 d. Dialogue and Chatbots in AI Agents
-
 e. Emotions in Simulations, the use of emotions in Agents, focusing on the Russian Researcher Tarashenko PAD model.
-
 f. Diplomacy
-
 g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs.
 
 </li>
