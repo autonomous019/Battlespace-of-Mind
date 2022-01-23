@@ -53,7 +53,25 @@ the following are very rough versions of chapters currently being written.
 
 <li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
 
-<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a></li>
+<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - AI in Games and Neuroweapons Serious Games: Real Time Strategy Games, Goal Oriented Action Planning, Non-Player Characters, Navigation Meshes, Behavior Trees, Dialogue Systems, Decision Trees</a>
+
+Artificial Intelligence and Simulations
+
+a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity
+
+b. Serious Games (Simulations), Game AI and Military Intelligence. Covers Reflexive Rewards and Gaming, AI in Simulation Design, the Game World, Agents, Elements of an AI Game, Kinematics in Simulated Worlds.
+
+c. Decision Making, covers the use of AI in making decisions in simulations with Behavior Trees and Goal Oriented Action Planning (GOAP).
+
+d. Dialogue and Chatbots in AI Agents
+
+e. Emotions in Simulations, the use of emotions in Agents, focusing on the Russian Researcher Tarashenko PAD model.
+
+f. Diplomacy
+
+g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs.
+
+</li>
 
 
 <hr>
@@ -361,41 +379,9 @@ Pinochet.</span></font></font></font></p>
 <font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">IV.
 Timeline of Computer Development</span></font></font></font></p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+
+<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
 <font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
-Artificial Intelligence and Simulations</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">	a.
-AI, includes topics on Linear Regression, Problems of Statistical
-Methods, Machine Bias and Algorithmic Complexity</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">          <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">b.
-Serious Games (Simulations), Game AI and Military Intelligence.
-Covers Reflexive Rewards and Gaming, AI in Simulation Design, the
-Game World, Agents, Elements of an AI Game, Kinematics in Simulated
-Worlds. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">         <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">c.
-Decision Making, covers the use of AI in making decisions in
-simulations with Behavior Trees and Goal Oriented Action Planning
-(GOAP).</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">        <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">d.
-Dialogue and Chatbots in AI Agents</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">        <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">e.
-Emotions in Simulations, the use of emotions in Agents, focusing on
-the Russian Researcher Tarashenko PAD model.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">        <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">f.
-Diplomacy</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">        <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">g.
-Real Time Strategy Simulations including the use of Neuroevolution-
-when computers write their own game programs.   </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VI.
 Cybernetic Reflexive Control</span></font></font></font></p>
 <p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
 <font color="#24292f">        <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">a.
