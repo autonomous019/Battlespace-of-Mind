@@ -7,7 +7,7 @@ This book is an investigation into cybernetics, automation, AI, cognitive scienc
 It is a part of cybersecurity studies as it relates to the cyber of both machine and animals, in the case of animals using computer based algorithms to influence biological objects.  The primary target is the human brain, using scientific technology to alter human organisms and functionality.
 
 <h3>Battlespace of Mind: (all content is pre-press)</h3>
-the following are very rough versions of chapters currently being written.
+
 
 <p>&nbsp;</p>
 
