@@ -22,10 +22,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 <li>Chapter 4: Lessons from an American Weapons Designer (Dr. John Norseen) <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%204%20-%20Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li>
 
-<li>Chapter 5: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205-%20Automated%20Control%20and%20Tracking.pdf">Cybernetics and Automated Control</a></li>
-  
-
-<li>Chapter 5, Part 2:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205c%20Reflexive%20Control.pdf">Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
+<li>Chapter 5: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205-%20Automated%20Control%20and%20Tracking.pdf">AI, Cybernetics, Automated Control and Reflexive Management</a> Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
 
 <li>Chapter 6:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.pdf">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
 
