@@ -53,14 +53,14 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - </a>
 <p style="text-indent: 40px">
   <quote>
-  <li>a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity
+  <ul><li>a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity
 b. Serious Games (Simulations), Game AI and Military Intelligence. Covers Reflexive Rewards and Gaming, AI in Simulation Design, the Game World, Agents, Elements of an AI Game, Kinematics in Simulated Worlds.
 c. Decision Making, covers the use of AI in making decisions in simulations with Behavior Trees and Goal Oriented Action Planning (GOAP).
 d. Dialogue and Chatbots in AI Agents
 e. Emotions in Simulations, the use of emotions in Agents, focusing on the Russian Researcher Tarashenko PAD model.
 f. Diplomacy
 g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs.
-    </li>
+    </li></ul>
   </quote>
     </p>
 </li>
