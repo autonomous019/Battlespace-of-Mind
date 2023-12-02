@@ -2,6 +2,8 @@
 by Mícheál Seosamh MacCiaráin 2021 macciarain@protonmail.com
 Independent Cybersecurity Consultant
 
+Note: This repo will be updated soon with final polished versions and is in process of being distributed and published by Trine Day Publishing in early 2024. 
+
 This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocognitive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.
 
 It is a part of cybersecurity studies as it relates to the cyber of both machine and animals, in the case of animals using computer based algorithms to influence biological objects.  The primary target is the human brain, using scientific technology to alter human organisms and functionality.
