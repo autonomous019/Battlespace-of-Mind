@@ -12,12 +12,14 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <p>&nbsp;</p>
 
 
+
 <img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true">
 
 
-
 <p>&nbsp;</p>
-<h4>These files are the pre-edited pre-press edition, the very rough drafts, download the book pdf above for the free edited version.</h4>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h4>These files below are the pre-edited pre-press edition, the very rough drafts, download the book pdf above for the free edited version. [not yet released, should be available by Jan. 31, 2024</h4>
 
 <b>TABLE OF CONTENTS</b>
 
