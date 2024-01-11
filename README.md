@@ -23,7 +23,6 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 <b>TABLE OF CONTENTS</b>
 
-<li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Introduction.pdf">Introduction</a></li>
 
 <li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.pdf">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
 
