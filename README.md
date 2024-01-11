@@ -54,15 +54,15 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <br />
 
 
-<li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20A_%20Timeline.docx?raw=true">General Timeline of the Subjects covered in this book</a></li>
+<li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20A_%20Timeline.pdf?raw=true">General Timeline of the Subjects covered in this book</a></li>
+https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20A_%20Timeline.pdf?raw=true
+
+<li>Appendix B: Timeline of Wiemar Republic  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20B_%20Weimar%20Republic%20Timeline.pdf?raw=true">historical account of the Weimar era of Germany</a></li>
 
 
-<li>Appendix B: Timeline of Wiemar Republic  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20B_%20Weimar%20Republic%20Timeline.docx?raw=true">historical account of the Weimar era of Germany</a></li>
+<li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20C%20Neuroweapons%20Case%20Study_%20Targeted%20Individuals.pdf?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
 
-
-<li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Neuroweapons%20Case%20Study_%20Targeted%20Individuals.docx?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
-
-<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20D%20-%20%20AI%20and%20SImulation%20Architecture.pdf">AI and Simulations Architecture - </a>
+<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20D-%20Play%20AI--%20Machine%20Learning%20in%20VIdeo%20Games.pdf?raw=true">Play AI: Machine Learning in Video Games [free book] </a>
 <p style="text-indent: 40px">
   <quote>
   <ul><li>a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity</li>
@@ -77,8 +77,9 @@ g. Real Time Strategy Simulations including the use of Neuroevolution- when comp
     </p>
 </li>
 
-<li>Appendix E: Timeline on Development of Computation  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20E%20-%20Computer%20Development%20Timeline.odt">Timeline on how computation technology developed</a></li>
-Introduction
+<li>Appendix E: Timeline on Development of Computation  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20E%20-%20Computer%20Development%20Timeline.pdf?raw=true">Timeline on how computation technology developed</a></li>
+<P>&nbsp;</P>
+<b>Introduction</b>
     This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocognitive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.
      It is a part of cybersecurity studies as it relates to the cybernetics-- the control of both machine and animals, in the case of animals using computer based algorithms to influence biological objects. The primary target is the human brain, using scientific technology to alter human organisms and functionality, which is to say human behavior.
      This book is intended as a technical reference to help researchers, engineers, physicists, software engineers, doctors and others interested in the use of technology in the pursuit of Information Warfare, it is also of interest to those that are part of the Targeted Individuals community in an effort to understand the exact nature of the technology that may be affecting common citizens that have no role in the Military or Intelligence Communities.  Each chapter of this work can be read independently or in succession, each chapter addresses a particular technological aspect of Information Warfare. This work is not intended as a general overview of 'Mind Control' as others have already provided such high level discussions of remote influencing in Information Warfare, such as Krishnan. 
@@ -160,7 +161,7 @@ Appendix and on-line supplement
 Appendix A: General Timelines of Book, timelines of neuroweapons developments
 Appendix B: Timeline of the Wiemar Republic
 Appendix C: Case Study of Targeted Individuals, case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as ‘Targeted Individuals’
-Appendix D: AI and Simulations Architecture
+Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20D-%20Play%20AI--%20Machine%20Learning%20in%20VIdeo%20Games.pdf">Play AI: Machine Learning in Video Games</a>
 	a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity
           b. Serious Games (Simulations), Game AI and Military Intelligence. Covers Reflexive Rewards and Gaming, AI in Simulation Design, the Game World, Agents, Elements of an AI Game, Kinematics in Simulated Worlds. 
          c. Decision Making, covers the use of AI in making decisions in simulations with Behavior Trees and Goal Oriented Action Planning (GOAP).
