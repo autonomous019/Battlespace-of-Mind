@@ -16,7 +16,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 [[https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png|alt=bsm book cover]]
 
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true))
+![alt text]([book cover](/battle_space_cover.png?raw=true))
 <h3>Battlespace of Mind: (all content is pre-press)</h3>
 
 
