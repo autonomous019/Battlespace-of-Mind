@@ -55,7 +55,6 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 
 <li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20A_%20Timeline.pdf?raw=true">General Timeline of the Subjects covered in this book</a></li>
-https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20A_%20Timeline.pdf?raw=true
 
 <li>Appendix B: Timeline of Wiemar Republic  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20B_%20Weimar%20Republic%20Timeline.pdf?raw=true">historical account of the Weimar era of Germany</a></li>
 
