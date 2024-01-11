@@ -11,14 +11,9 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 <p>&nbsp;</p>
 
-<img src="[https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png](https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true)"> 
 
 <img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true">
 
-[[https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true|alt=bsm book cover]]
-
-![alt text]([book cover](/battle_space_cover.png?raw=true))
-<h3>Battlespace of Mind: (all content is pre-press)</h3>
 
 
 <p>&nbsp;</p>
