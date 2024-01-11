@@ -78,618 +78,101 @@ g. Real Time Strategy Simulations including the use of Neuroevolution- when comp
 </li>
 
 <li>Appendix E: Timeline on Development of Computation  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Appendix%20E%20-%20Computer%20Development%20Timeline.odt">Timeline on how computation technology developed</a></li>
+Introduction
+    This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocognitive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.
+     It is a part of cybersecurity studies as it relates to the cybernetics-- the control of both machine and animals, in the case of animals using computer based algorithms to influence biological objects. The primary target is the human brain, using scientific technology to alter human organisms and functionality, which is to say human behavior.
+     This book is intended as a technical reference to help researchers, engineers, physicists, software engineers, doctors and others interested in the use of technology in the pursuit of Information Warfare, it is also of interest to those that are part of the Targeted Individuals community in an effort to understand the exact nature of the technology that may be affecting common citizens that have no role in the Military or Intelligence Communities.  Each chapter of this work can be read independently or in succession, each chapter addresses a particular technological aspect of Information Warfare. This work is not intended as a general overview of 'Mind Control' as others have already provided such high level discussions of remote influencing in Information Warfare, such as Krishnan. 
+     In the pages that follow the reader will find general information regarding the subjects of Cybersecurity and Information Warfare along with more specific and very technical discussions of how this technology functions and the scientific theories behind this technology. I begin with a brief on the sociology of far-right German society with particular focus on Nazi Germany and it's successor the Black International. Then move into a discussion of Information Warfare, followed by defining what Neuroweapons are and how they function and the progression through both Soviet and Nazi science of altering human biology to achieve political goals.  These first three chapters are lessons in the history of science on human modification. Chapter 4 jumps from the distant past to technology developed by an American engineer, Dr. John Norseen, during the 1990s to early 2000s which introduces the key concepts that are addressed in the remaining chapter, most of which are technical discussions of the subjects addressed in Norseen's work. Following up on the topic of Cybernetics from Norseen's work the next chapter goes into the use of computers in control systems, which is what cybernetics is, remote influencing and cybernetics are dual sciences with regard to Information Warfare. This is followed by a discussion of the physics behind neuroweapons with an emphasis on the use of Gravitational based technology to induce Electromagnetic effects in the human body, the use of gravitational tech is a major distinction in this work from the works of others and answers some of the criticisms of the ideal of Remote Influencing which is usually related to EM waves (such as microwaves), the use of Gravitational Waves shows how those criticisms can be discarded. This is followed by a stand-alone chapter on the history of Radar, and addresses how radar is used in remote influencing.  The next chapter is a technical discussion of Quantum Physics and Consciousness with special attention to the science cited by Dr. John Norseen. Chapter 9 goes into this technology as it relates to Havana Syndrome and provides insights into countermeasures against this technology and the science behind those countermeasures which are attributed to the research of Dr. Michael Persinger. Chapter 10 delves into the use of Hypnosis in Warfare paying attention to physiology in hypnosis and the brain centers impacted by hypnosis. The final chapter goes into the development of this technology by the US and UK including the use of computer automation in pursuit of Information Warfare. 
 
-<hr>
+Threat Analysis:
+    Since the end of World War I, the study of EM and Gravitational Waves for the purpose of information warfare has been pursued by global strategic players such as the Nazi Regime in Germany, the USSR, and NATO alliance, while also pursued by the Peoples Republic of China (PRC), while keeping in mind the only country not to ratify treaties banning biological weapons with the technical resources to do it, is Israel (ACA, 2018), which also has a history of conducting espionage against allies like the United States and has recruited many ex-Soviet engineers and is a society based in ethno-religious supremacy (HRW, 2021). State actors are not the only ones that could have this capability as it is available on the black market, as well as any small technically outfitted terrorist group could also accomplish this technology. Indeed, the roots of political deception are found in the intoxication tactics of the authoritarian 4th Reich inspired Black International. 
+    The threat of using EM and Gravitoelectromagnetic weapons, of which Aharonov-Bohm (A-B) effect is a party to, was encountered primarily in the 1980s in the USSR. Soviet military-industrial research focused on 'remote biological effects' or remote (non-local, entanglement) influencing using A-B generators designed initially by Akimov (Kernbach, 2017) from at least around 1986. Later his research associate A V Bobrov experimented with using LEDs (lasers) with modulated pulsed rhythms for the same purpose. Previous to this Soviet research also focused on using gravitational waves for the purposes of non-local influence, possibly also involving the proposed Gravitational Aharonov-Bohm effect. After the fall of the Soviet Union Soviet researchers were brought to the west to be debriefed, for instance one remote influencing researcher Dr. Okhtarin was interviewed by the CIA regarding his research into remote influencing using the Aharonov-Bohm effect. In western parlance remote influencing is known as 'remote action'. When the Russians came west they were employed by Lockheed-Martin to collaborate with their engineers, such as Dr. John Norseen who invented 'Bio-Fusion' and 'Thought-Injection' technology based on previous Soviet inventions. It is also worth noting that this technology is available on the black market according to Dr. Kernbach. Incidents in the Soviet Union targeting the US Embassy using this technology are well documented. And recently the Havana US Embassy incident implicated the use of remote influencing technology as the source of the medical problems encountered by embassy staff (Verma et al, 2019) .    
+   This work is organized into the following chapters:
 
-<h3>Introduction</h3>
-<p style="margin-bottom: 0in; font-variant: normal; font-style: normal; line-height: 138%; text-decoration: none">
-<font color="#000000"><font face="Arial, sans-serif"><font size="4" style="font-size: 14pt"><b><span style="background: transparent">Introduction</span></b></font></font></font></p>
-<p style="margin-bottom: 0in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; line-height: 138%; text-decoration: none">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="background: transparent">This
-book is an investigation into cybernetics, automation, AI, cognitive
-science and physics for the purposes of Information Warfare.
-Specifically, focusing on the particular area of using neurocognitive
-science for the purposes of conducting warfare in the battlespace of
-the mind, information warfare targeting the psyche known as
-neuroweapons, a biological weapon.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">It
-is a part of cybersecurity studies as it relates to the cybernetics
-of both machine and animals, in the case of animals using computer
-based algorithms to influence biological objects. The primary target
-is the human brain, using scientific technology to alter human
-organisms and functionality.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><b>Threat
-Analysis:</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">Since
-the end of World War I, the study of EM and Gravitational Waves for
-the purpose of information warfare has been pursued by global
-strategic players such as the Nazi Regime in Germany, the USSR, and
-NATO alliance, while also pursued by the Peoples Republic of China
-(PRC), while keeping in mind the only country not to ratify treaties
-banning biological weapons with the technical resources to do it, is
-Israel (ACA, 2018), which also has a history of conducting espionage
-against allies like the United States and has recruited many
-ex-Soviet engineers and is a society based in ethno-religious
-supremacy (HRW, 2021). State actors are not the only ones that could
-have this capability as it is available on the black market, as well
-as any small technically outfitted terrorist group could also
-accomplish this technology. Indeed, the roots of political deception
-are found in the intoxication tactics of the 4th Reich inspired Black
-International. </font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">The
-threat of using EM and Gravitoelectromagnetic weapons, of which
-Ahronov-Bohm (A-B) effect is a party to, was encountered primarily in
-the 1980s in the USSR. Soviet military-industrial research focused on
-'remote biological effects' or remote (non-local, entanglement)
-influencing using A-B generators designed initially by Akhimov
-(Kernbach, 2017) around 1986 at least. Later his research associate A
-V Bobrov experimented with using LEDs with modulated pulsed rhythms
-for the same purpose. Previous to this Soviet research also focused
-on using gravitational waves for the purposes of non-local influence,
-possibly also involving the proposed Gravitational Ahronov-Bohm
-effect. After the fall of the Soviet Union Soviet researchers were
-brought to the west to be debriefed, for instance Okhtarin was
-interviewed by the CIA regarding his research into remote influencing
-using the Ahronov-Bohm effect. In western parlance remote influencing
-is known as 'remote action'. When the Russians came west they were
-employed by Lockheed-Martin to collaborate with their engineers, such
-as Dr. John Norseen who invented 'Bio-Fusion' and 'Thought-Injection'
-technology based on previous Soviet inventions. It is also worth
-noting that this technology is available on the black market
-according to Dr. Kernbach. Incidents in the Soviet Union targeting
-the US Embassy using this technology are well documented. And
-recently the Havana US Embassy incident implicated the use of remote
-influencing technology as the source of the medical problems
-encountered by embassy staff (Verma et al, 2019) .    </font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f">     <font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">The
-origins of this technology is traced back to the Nazi Regime, from
-which the Soviets and US-British (UKUSA) alliance received their
-technology that was later refined and built upon by the winning
-powers.  In this work I trace out how this technology was developed
-most importantly paying attention to it&rsquo;s coupling of
-biological manipulation with that of computer based cybernetics-- the
-study of control in machine and animals.  This work is organized into
-the following chapters:</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 1 – The Black International
+	This chapter covers the history of Military Intelligence in Weimar Germany leading to the founding of the Nazi State through the use of military intelligence of the far-right military leaders of Germany, such as Luddendorf and von Luttwitz, from which Hitler was recruited as a military intelligence agent before joining the NSDAP (“Nazis”). There is a historical development in Germanic society of powerful merchants influencing the overall society.  I trace out the history of the Hanseatic League and how powerful trade guilds have always influenced German society, including the founding of the Nazi state through the Keppler Circle and Harzburg front. The history of the German far-right leadership in the military (Reichswehr) is addressed and the relationship between powerful Generals such as Baron Von Luttwitz and Luddendorf and that of the attempts to overthrow by armed insurrection of the Weimar Republic such as the Kapp Putsch and Beer Hall Putsch is reviewed as well as the significance of a far-right militia the Black Reichswehr in these attempted putsches and the eventual founding of the Nazi state. The Reichswehr also engineered the infiltration and intoxication of the German far-right parties, with special attention to the role of Adolf Hitler in these infiltrations.  
+     After these initial explorations of the development leading to the Nazi State the concept of the 4th Reich is addressed under the leadership of the chief of the Nazi SS, Himmler, who planned on rebuilding the Nazi movement after it's military defeat. A discussion hearkening back to the background of the Hanseatic Leagues is the role of rich German industrialists in this scheme as well as the role of the banking interests of the City of London-Hamburg axis which were also seen in the Harzburg Front.  
+    A side journey is taken to understand the relationship of far-right military organizations on the international scene with the discussion of the attempted overthrow of FDR by rich Anglo-Saxon supremacists of the United States, the financiers of international fascism, such as J.P. Morgan and others. This if followed on by a discussion of the founding of the CIA through far-right intermediaries such as Bill Donovan and the role of British intelligence in this founding with special attention to the influence of a Nazi spy within British intelligence that advised fellow fascist Bill Donovan on how to conduct a secret intelligence organization.
+    All of this concludes with the discussion of what is known as the Black International, a 4th Reich experiment at creating fascist states to replace fascist Germany. This fascist terrorist network was headed up by SS officer Otto Skorzeny, who was appointed by Himmler to develop this network.  The main techniques of the Black International is discussed such as Action Psychologie, which included such concepts of intoxication-- conducting mind poisoning operations, infiltration, false flag ops, military deception and the very important 'strategy of tension'-- the promotion of conflict between different social groups.  
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt"><b>Chapter
-1 &ndash; The Black International</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">	This
-chapter covers the history of Military Intelligence in Weimar Germany
-leading to the founding of the Nazi State through the use of military
-intelligence of the far-right military leaders of Germany, such as
-Luddendorf and von Luttwitz, from which Hitler was recruited as a
-military intelligence officer before joining the NSDAP (&ldquo;Nazis&rdquo;).
-</font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">I.
-Sociology of Pre-War Germany covering the background to German social
-structure in the Hanseatic League and German Secret Societies as well
-as the Prussian background to the Weimar Military.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">II.
-Reichswehr infiltration and intoxication of the German Right, the
-Black Reichswehr and recruitment of Hitler to military intelligence.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">III.
-Putschs: Kapp and Beer Hall, early attempts of Baron Von Luttwitz and
-Luddendorf to takeover the German state through armed rebellions of
-far-right veterans, and the Bavarian militia.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">IV.
-Political elites support and found the Nazi State, the Harzburg Front
-and the Keppler Circle.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">V.
-4<sup>th</sup> Reich Plans after WWII led by Himmler in coordination
-with not just German industrialists but also the banking interests of
-the City of London-Hamburg axis.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">VI.
-The plot to overthrow FDR by rich Anglo-Saxon supremacists of the
-United States, the financiers of international fascism- J.P. Morgan
-and Co.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">VII.
-The Founding of the CIA through Bill Donovan and William &lsquo;Intrepid&rsquo;
-Stephenson of British Secret Intelligence.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji"><font size="3" style="font-size: 12pt">VIII.
-The Black International, fascist terrorist networks created by the
-Nazis to further the founding of a 4<sup>th</sup> Reich led by Otto
-Skorzeny who was appointed head of an SS Division for this purpose by
-Himmler. Covering aspects of Action Psychologie (PSYOPS):
-intoxication, infiltration, false flag ops, military deception and
-the strategy of tension.  </font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 2 – Information Warfare, PSYOPS, and Information Operations
+     This chapter provides a definition of what Information Operations (IO) are in Information Warfare (IW).  There are specific definitions and elements as defined by the US DoD Joint Chiefs of Staff that are considered part of IO.  There are 6 major elements of IW covered in this chapter:     
+    I. Information Operations (IO) 
+    II. Electronic Warfare (EW)
+    III. Computer Network Operations (CNO)
+    IV. Psychological Operations (PSYOPS)
+    V. Military Deception (MILDEC) 
+    VI. Operational Security (OPSEC)
+I pay special attention to PSYOPS in this chapter it is important to understand the history of PSYOPS or  what is contemporarily known as Military Support Information Operations (MISO) in current military documentation. The history of the development of the theories behind PSYOPS was first made in America after the first world war, with the works of Lasswell and Lippman. From these early theoretical contributions came later in the 1990s the military theorist Col. Richard Szafranski's concept of 'Neo-cortical Warfare' which presaged the ideals of Neuroweapons. Col. John Boyd's work in expanding on Szafranski's work is also addressed, where expeditious action is introduced into neo-cortical warfare, the battle for ever faster decision processes that lead to using machines for that purpose. Also covered is the technique of using Neuro-Linguistic Programming inspired Narrative Networks, using narratives to influence cognition.  The speed needed to effectively conduct Neo-cortical Warfare is addressed in the Brain Computer Interface section where we start to see how the joining of computers with minds in IW is a critical part of effective IW. 
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-2 &ndash; Information Warfare, PSYOPS, and Information Operations</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">provides
-technical information from current military intelligence procedures
-for Information Warfare.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">I.
-Information Operations (IO) in both degradation and enhancement
-modes, automated decision making in IO </font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">II.
-Electronic Warfare (EW)</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">III.
-Computer Network Operations (CNO)</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">IV.
-Psychological Operations (PSYOPS)</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">V.
-Military Deception (MILDEC) </font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">VI.
-Operational Security (OPSEC)</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">VII.
-History of Psyops &ndash; covers post WWI developments in the theory
-and actions of PSYOPS through Lasswell and Lippman.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">VIII.
-  Digital PSYOPS and Neocortical Warfare, military planners targeting
-of the mind including the work of American military theorists:
-Szafranski and Boyd.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">IX.
-Narrative Networks for influence and control IO</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">X.
-Brain Computer Interfaces for automated IO</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-3 &ndash; Neuroweapons</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f">    <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">This
-chapter reviews the terminology associated with Neuroweapons and it&rsquo;s
-history of development. </font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">I.
-What are Neuroweapons</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">II.
-Soviet Neuroweapons, covering the work of Russian scientists:
-Bekhterov, Vasiliev, Kazhinsky</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">III.
-Psychology developed in Germany: Wendt, Krueger, Sanders, Bender</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">IV.
-Nazi Remote Viewing, covering the secret Nazi weapons program led by
-Capt. Roader and involving the work of Straniak.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">V.
-Genetic Engineering in Nazi Germany's: Butenandt, Von Verschuer,
-Mengele, Magnusson</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">VI.
-Nazi Bioweapons: Berlin Brain Institute use of molecular biology to
-develop biological weapons</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">VII.
-Background and Timeline of Nazi scientist Karl Gunther Zimmer, one of
-the founders of modern microbiology, including using radiation to
-enhance genetic adaptations.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 3 – Neuroweapons
+    This chapter reviews the terminology associated with Neuroweapons and it’s history of development. Neuroweapons development begins in the early Soviet Union just after WWI with the early work of Bekhterov, Vasiliev and Kazhinsky, all working in Russia. While at the same time early work was also begun in post-war Wiemar Germany by Von Ardenne. To understand the developments in Neuroweapons one has to understand the beginnings of authoritarian psychology in Germany began and the influence of German psychology and the influence of Nazi ideology on early German psychological researchers. Hence I trace out the development from Wundt centered on the University of Leipzig and his students, who later became attached and engaged with the Nazi movement such as Krueger, who led Wundt’s experimental center after Wundt retired, also covered are psychologists Sanders and parapsychologist Hans Bender. We also study another medical aspect of Nazi Germany that involving the use of Genetic Engineering to achieve political goals, aiming to re-invent the supreme race using technology to mold human biology into an obedient state citizenship under central control. I detail the work of such early genetic engineering in Germany in the works of Butenandt, Von Verschuer, Mengele and Magnusson where perverse experiments in human biological manipulation were carried out showing the extent of the use of biological modification to create the perfect Nazi regime.   
+    Another part of this chapter covers the development of molecular biology at the Kaiser Wilhelm Institute Berlin Brain Institute, involving the early founders of molecular biology, which is also directly related to genetic and biological modification of the citizenry.  The KWI Brain Institute was notably the place where the greats of molecular biology worked together: Delbruck, Zimmer, Timofeeff-Ressovsky, and Pascual Jordan, the physicist. A timeline of Zimmer’s involvment is reviewed as he was taken with other leading molecular biologists and Nazi Nuclear Program veterans to the Soviet Union as prison-labor to work on the Soviet nuclear program after WWII. 
+     Another key aspect of Nazi weapons development was the creation of what was an early prototypical Remote Viewing program, the ability to use telepathy to gather information on remote targets.  The creation of the Nazi remote viewing program is reviewed focusing on the contribution of Reichskreig (Navy) Submarine Captain Roader, with the collaboration of a famous German astrologer and psychic Straniak headquartered at a secret Reichskrieg lab in Berlin.  
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-  4 &ndash;  Lessons from an American Weapons Developers</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">This
-chapter does a dive into the work of Lockheed-Martin weapons
-developer Dr. John Norseen (US Navy, retired). Dr. Norseen developed
-American copies of Soviet Psychological Warfare programs using the
-same methodologies, this chapter studies those methodologies for
-altering human consciousness using technology.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">I.
-Semiotics, the science of signs, covers the topics of Biofusion,
-Thought Injection and Reflexive Control, brief discussion of brain
-areas involved: TC-22 (Temporal Cortex) and Broadmann&rsquo;s Area
-44, the Broca Area and it&rsquo;s connection to the Wernicke area,
-the Inferior Frontal Gyrus (IFG).</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">II.
-Thought Injected Reflexive Control, the use of this technology for
-the purposes of Reflexive Control.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">III.
-Semiotics and Quantum Consciousness, the use by Norseen of the ideals
-of Penrose and Hameroff to explain Quantum Consciousness or the
-quantum elements of human consciousness.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">IV.
-Cyber Semiotics, using this technology in tandem with Cybernetics.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">V.
-Semiotic Diplomatic Cybernetics, using this technology with Reflexive
-Control and automated process in cybernetics to develop RC in
-international and national politics.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt">VI.
-Semiotic Alcohol, goes into some of the neurotransmitters used with
-Thought Injection, importantly the issue of THIQ and the ability for
-THIQ to enable this technology.</font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; font-weight: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 4 – Lessons from an American Weapons Developers
+     Chapter 4 leap frogs early remote influencing operations of the United States such as Project Monarch and MK Ultra, which have been extensively written about by others, see Krishnan (2016). Skipping ahead to the technological driven methods of the 1990s.  This chapter does a dive into the work of Lockheed-Martin weapons developer Dr. John Norseen (Lt. US Navy, retired). Dr. Norseen developed American copies of Soviet Psychological Warfare programs using the same methodologies and technological approaches, this chapter studies those methodologies for altering human consciousness and physiology using technology.
+    I cover some of the key concepts used by Dr. Norseen to develop his ‘anti-terrorism’ thought injection.  Semiotics, the science of signs, covers the topics of Biofusion, semiotics is a linguistic term borrowed here to refer to the images of the mind. A discussion of some of the brain areas affected by ‘thought injection’: TC-22 (Temporal Cortex) and Broadmann’s Area 44, the Broca Area and it’s connection to the Wernicke area, the Inferior Frontal Gyrus (IFG), these are further developed in Chapter 9. The use of reflexive control (RC) is brought up by Norseen in relation to his weaponization of neurotechnology, the use of RC is directly tied to neuroweapons by Soviet scientists and is carried on here by Norseen.  A fuller discussion of Reflexive Control is in Chapter 5.  A discussion of Semiotics and Quantum Consciousness as discussed by Norseen in his correpondences and publications is reviewed, a detailed discussion of Quantum Consciousness is provided in Chapter 8.  The discussion in this chapter focuses on the use of Norseen of the ideals of Nobel Laureate Sir Dr. Roger Penrose and Dr. Stuart Hameroff of the University of Arizona related to the gravitational collapse of the quantum state believed to be used in the brain giving the formation of ‘consciousness’ through the brain’s network of microtubules (MTs). 
+    Cyber Semiotics is then discussed which relates the use of Cybernetics, the study of controllers, and using semiotics as a means of control. A further elucidation in cyber semiotics is brought up in a discussion of semiotic diplomatic cybernetics, using this technology and RC with automated processes in cybernetics to develop RC in international, national and local politics. 
+   The final discussion relates to the utilization of hormones, neurotransmitters, found in the human body, which are used to ‘control’ a human. The use of THIQ is also addressed as brought forward by Dr. Norseen.  A brief mention is made of the apocalyptic world view of Dr. Norseen brings this chapter to a close. 
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-5 &ndash; Computation, Cybernetics and Control </b></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">    <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter covers the development of the modern computer as well as it&rsquo;s
-corollary of Cybernetics, the study of control in machines and
-animals with an eye toward it&rsquo;s utilization in Reflexive
-Control. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-History of Computers, covers the work of Turing and Zuse and other
-Nazi German computer engineers.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">II.
-History of British Computing in Intelligence, draws out the various
-programs developed by British Intelligence specifically to intoxicate
-and infiltrate the Catholic population of the entire island of
-Ireland such as Project Mannequin.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">III.
-Cybernetics, covers the development of Cybernetics referencing the
-thought and ideals of Stafford Beers, an British Operations Research
-theorist that developed one of the first fully autonomous systems
-with feedbacks, which was taken over by Fascist Chilean Dictator,
-Pinochet.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">IV.
-Timeline of Computer Development</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
+Chapter 5 – Computation, Cybernetics and Control 
+     Few who use hand held devices today would recognize their origin in warfare, that is, that the development of computer technology is directly related to the efforts of both the Allies and Axis powers to develop more efficient killing systems. Later, the development of efficient machines to run weapons systems merges with operations research leading to cybernetics. Which form a trinity of specializations from the Soviets of Reflexive Control, Computation and Cybernetics.  This chapter covers the development of the modern computer as well as it’s corollary of Cybernetics, the study of control in machines and animals with an eye toward it’s utilization in Reflexive Control. 
+     The first discussion is that of the History of Computers by tracing the contributions of the two chief developers of computers one in the UK, one in Germany, for the UK Alan Turing working at Blechley for the precursor to GCHQ, Britian’s NSA. The other for Germany a wiz kid who started his own computing company after being called up to service by the German state and funded by the Deutsche Versuchsanstalt für Luftfahrt (DVL; German Research Institute for Aviation). One developing further the ‘Enigma’ to crack German codes, the other developing the ‘Z2’ used to calculate wing spans for German missiles. A further discussion is brought forth involving the post-war relationship of UKUSA and German computer engineers, with special mention of the contributions of German Heinz Billing.   
+    Our journey into the combination of intelligence with computation takes us to the most developed Intelligence Force on earth in the mid-20th century, that of the British Empire. The next discussion topic is that of the history of computing in the war against the various factions of the ‘Irish Republican Army’. For which some in the Irish Republican community have charged the British with using automated psyops against them during the Troubles, intoxication and infiltration operations. The use of machines in policing or occupying Ireland is studied and it’s development into full automation is discussed.
+    Development of Operations Research led to what we know as Cybernetics, which is further elucidated in the British Operations Researcher Stafford Beers and his theories on cybernetics and automated systems to achieve homeostasis in socio-economic terms. A discussion of ‘cybersyn’ designed by Beers to run the state of Chile is discussed, which came to an end in the hands of the fascist dictatorship of Pinochet.  
+    An extensive discussion of Reflexive Control is brought forward with special awareness toward Cybernetics and RC. The beginning of RC comes from the Soviets with the advent of a Soviet military computer engineer. Col. V. Lefebvre creating a computerized version of Reflexive Control. Later, after the fall of the Soviets, Lefebvre came to America and taught the US Intelligence Community the methodologies of RC as developed by the Soviets. A discussion of the computational rules of RC are gone over, as well as such topics as: situational awareness and management; AI Decision Aides and automated decision making; fast reflexion- hijacking the amygdala for automated control; RC Games-- the use of game theoretic systems for RC by researcher Novikov. Cognitive RC-- the use of cognitive mapping of adversaries in conflict; Novikov’s Mob control using RC; Tarashenko’s Reflexive Robots-- use of robots in networks of humans to influence humans.
 
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
-Cybernetic Reflexive Control</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">        <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">a.
-Early Reflexive Control Research focusing on the work of Russian
-researcher who moved to America, V. Lefebvre.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">b.
-Cyber influence of RC</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">c.
-Situational Awareness and </span><span style="font-weight: normal">Management</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">d.
-AI Decision Aides, automated decision making</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">e.
-Fast Reflexion, Lefebvre use of fast reflexion for changing beliefs
-and actions</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">f.
-RC Games, referencing the research of Novikov, in game theoretic RC</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">g.
-Cognitive RC</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">h.
-Mob Control with RC, controlling mobs by researcher Novikov.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-Reflexive Robots, the use of robots in networks of humans to
-influence humans, references the research work of Tarashenko.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 6 – Physics of Neuroweapons
+      This chapter addresses the physics behind remote influencing technology focusing on the use of Gravitational Waves (GW) and Gravitoelectromagnetics (GEM). One of the contentious areas of claims regarding remote influencing is that it is usually explained via Electromagnetics (EM) alone, usually associating the tech with microwaves.  However, according to my research as presented in this chapter the real basis of this technology is GW which cannot be blocked by anything aside from another gravitational field, see Chapter 9. This association of remote influencing or monitoring technology with GW is seen by the Soviet attempts to use GW to control animals. In Gravitational Basis of Neuroweapons, focuses on the development in Russia of gravitational wave based technology for control of animals by Bunin in 1972, further goes into the history of ideals of Soviet researcher Dubrov, who advocated for a gravitational basis of remote influencing. In Modern Theories of Gravity and Remote Sensing, the research of Dr. Michael Persinger who researches the effect of gravitation on the brain among other effects is covered and later elaborated on in Chapter 9.  
+    The history of the development of theories regarding gravitation in Germany is not complete without the contributions of Nazi Physicist Dr. Pascual Jordan, a founder of Quantum Mechanics, who is believed to be the theoretician that gravitational basis of this technology originated from via intermediaries taken as prisoners to the Soviet Union post WW-II, such as the members of the Berlin Brain Institute where he collaborated. Also in Germany we have the gravitational theories of Burkhard Heim, who was a young scientist during the Nazi Regime, developed another gravitational theory for this technology, that Jordan collaborated on, he also worked with Hans Bender on a physical solution to Psi, which was also of interest to Capt. Hans Roader of the Remote Sensing project.
+    A further historical narrative is presented regarding the development of the detection of GW. The Rocky Road to Gravitational Wave Detection, this covers the history of trying to detect GW and the many hurdles encountered to their final confirmed discovery in 2015, also covered is interferometry-- a technique which uses the interference of superimposed waves to extract information, the brain is an interferometer. We take a more theoretical journey in Gravitational Waves and Surveillance, covering the work of Dr. Bob Baker, formerly an engineer at Lockheed, who proposed using GW for military applications such as surveillance in the early 2000s. Dr. Baker and his team faced many oppositions to their ideals in Suppression of HFGW, covers the US government funded report to debunk High Frequency Gravitational Waves (HFGW) after being interested in the technology, Dr. Baker relates this as a suppression effort.
+    Finally, in A Timeline of Gravitational Technology a succinct account in the historical development of GW based technology is presented. 
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-6 &ndash; Physics of Neuroweapons</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter addresses the physics behind this technology focusing on the
-use of gravitational waves and Gravitoelectromagnetics (GEM). </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-Gravitational Basis of Neuroweapons, focuses on the development in
-Russia of gravitational wave based technology for control of animals
-by Bunin in 1972, also goes into the history of ideals of Dubrov who
-advocated for a gravitational basis of remote influencing.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">II.
-Modern Theories of Gravity and Remote Sensing</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">III.
-Pascual Jordan, a Nazi and founder of Quantum Mechanics, is believed
-to be the theoretician that gravitational basis of this technology
-originated from via intermediaries taken as prisoners to the Soviet
-Union post WW-II.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">IV.
-Burkhard Heim, was a young scientist during the Nazi Regime,
-developed another gravitational theory for this technology, that
-Jordan collaborated on.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
-The Rocky Road to Gravitational Wave Detection, this covers the
-history of trying to detect GW and the many hurdles encountered to
-their final confirmed discovery in 2015. Also covers interferometry. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VI.
-Gravitational Waves and Surveillance, covers the work of Baker who
-proposed using GW for military applications such as surveillance in
-the early 2000s.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VII.
-Suppression of HFGW, covers the US government funded report to debunk
-High Frequency Gravitational Waves (HFGW) after being interested in
-the technology, a cover story.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VIII.
-A Timeline of Gravitational Technology</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 7 – Radar in Neuroweapons
+     In many histories of neuroweapons you will read of how ‘mind control’ developed out of Radar, which was a direct result of the military needs of World War II. In this chapter a technical overview of how radar works and how it relates to intelligence and surveillance is provided. I begin with a discussion of the EM Spectrum and how it related to the Radar Bands.  It is important to understand that radar is a transmitter that sends out a signal to a target or object, and the signal returns to the transmitter now acting as a receiver, so it is clear that also using remote influencing is a form of radar, whether line-of-sight (LOS) such as radar vs over-the-horizon (OTH) of which remote influencing is a sub-part of. A discussion of the History of Radar is presented to understand the development and involvement of British and German militaries in radar. The concept of illumination, lighting up a target with EM energy is discussed, you have to illuminate an object to read the object, as described by Dr. John Norseen. For the engineers reading this a brief discussion of the Radar equations are mentioned, the most important points being regarding signal loss and signal-to-noise ratio. 
+    The use of Radar in Intelligence and Surveillance is discussed with reference to the use of Radar in covert surveillance via the account of former British agent Carl Clark where use of a 3 point radar system to surveille targets is discussed The use of Radar illumination by the NSA of hardware installed on subject computers to retrieve information and images is also discussed.  Dr. John Norseen describes how reading the neurons in the brain relate to radar. 
+    To transmit a voice to someone’s auditory cortex could be done using Time Reversed Waves (TR) as related by former US Air Force Lt. Col. Tom Bearden in his discussion of TR. 
+    Finally, the discussion of the Eyes as Radar and Antenna systems is discussed in the research work of Singh et al, that relates the eyes as fractal antennas with high quality (High-Q) rating. The eyes are mentioned, see Chapter 9, as being a primary instrument in ‘Thought Injection’. 
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-7 &ndash; Radar in Neuroweapons</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter covers the use of Radar and Radar techniques in neuroweapons.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
 
-I. EM Spectrum and Radar Bands <br/>
-II. History of Radar<br/>
-III. Illumination of Radar<br/>
-IV. Radar Equations<br/>
-V. Radar in Intelligence and Surveillance<br/>
-VI. Time Reversed Waves<br/>
-VII. Eyes as Radar, Eyes as Antenna<br/>
-  <br/>
-<br/>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-8 &ndash; Quantum Consciousness</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter covers the work of Hameroff and Penrose in greater detail as
-far as explaining the quantum physics of consciousness and how it is
-used in Neuroweapons. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-Introduction- covers the Gabor Function, Microtubules, Zeeman Effect</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">II.
-ORCH-OR, the Objective Reduction of Quantum State and how that
-affects consciousness according to Hameroff.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">III.
-Electromagnetic (EM) Resonance of Microtubules, goes into the
-resonance of brain MT as studied by Indian scientist, Badhyapadhyay.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">IV.
-Persinger Studies on Casimir and Consciousness, the use of the
-Casimir Effect to explain consciousness.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
-Russian Research, covers the contributions of Russian scientists to
-the study of quantum consciousness: Akimov, Sokolov, Bobrov, as well
-as German researcher Barron Manfred von Ardenne,
-and the Russian researcher, Devyatkov, reverse engineering of Nazi
-Microwave generators suspected of being used as Neuroweaponry.
-Finally, reviewing the work of Kaznacheev in terms of remote
-biological influencing.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VI.
-Puthoff Generator, covers the workings of an American reverse
-engineering of Soviet &ldquo;Torsion&rdquo; Generators which use
-spin-entanglement and the Ahronov-Bohm effect by Hal Puthoff. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VII.
-Molecular Resonance and Soviet Research, covers the use of Molecular
-Resonance, originating with Jordan, as developed in Soviet science to
-influence remote biological objects, referencing the work of former
-Yugoslavian scientist Cosic&rsquo;s Resonant Recognition Model as
-advocated by Persinger.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 8 – Quantum Consciousness
+     This chapter covers the work of Hameroff and Penrose in greater detail as far as explaining the quantum physics of consciousness and how it is used in Neuroweapons, it also traces out the possible origination of these ideals in both Nazi Germany and the Soviet Union. The ideal of consciousness being affected by outside signals is primarily concerned with the microtubules in the neuronal networks of the brain.  The work of Penrose and Hameroff is gone into in detail to give a better understanding how this process of altering cognition is accomplished with technology.  
+     The first concept discussed is that of the Objective Reduction of the Quantum state and how that affects consciousness according to Hameroff. The process by which EM is used by MT is also studied in the section Electromagnetic (EM) Resonance of Microtubules, goes into the resonance of brain MT as studied by Indian scientist, Dr. Anibar Badhyapadhyay. An important scientific principle involved in this is the use of the Casimir Effect, which is a repulsive force at micro scale (1nm-20nm). Dr. Michael Persinger relates Casimir to Consciousness this is discussed in some detail here with elaborations from other researchers, an important ideal is that of the relationship of fluid viscosity and thixotropy which affects density of fluids and brain matter.  The history of Soviet developments in this area is discussed which covers the contributions of Russian scientists to the study of quantum consciousness: Akimov, Sokolov, Bobrov, as well as German researcher Barron Manfred von Ardenne (Istok Institute), and the Russian researcher, Devyatkov, reverse engineering of Nazi Microwave generators suspected of being used as Neuroweaponry. Finally, reviewing the work of Kaznacheev in terms of remote biological influencing.
+     The next topic covered is a review of the Puthoff Generators which parts of which are used in experiments of Dr. Michael Persinger, Dr. Hal Puthoff reverse engineered Soviet “Torsion” Generators which use spin-entanglement and the Aharonov-Bohm effect .  Then we discuss the original ideal of P. Jordan, the Nazi physicist, and it’s development in the Soviet Union of Molecular Resonance. Molecular Resonance developed in Soviet science to influence remote biological objects, referencing the work of former communist Yugoslavian scientist Irene Cosic’s Resonant Recognition Model as advocated by Persinger. This model is important in that it provides an alternative signaling pathway to influence proteins in the brain, such as MT, presenting an alternative signal propogation in the brain to the traditional JAK-STAT signalling pathway-- a chain of interactions between proteins in a cell . 
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-9 &ndash; Countermeasures</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter addresses this question: Are changing angular momentum
-velocities a countermeasure to Ahronov-Bohm based neuroweapons as
-exemplified in the Havana Syndrome.  </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-Profiling a Directed Energy Attack Medically Speaking, looks into the
-stud of Verma and Persinger into non-local attacks on the brains of
-victims.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">II.
-Technological Briefing, drills down into the phsyics theories that
-explain non-local targeting by reviewing such theories as the
-Ahronov-Bohm effect, spin entanglement, Casimir Effect and GEM
-Equations.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">III.
-Brain Profile, a look at EEG studies on Havana Syndrome, non-local
-targeting and the waves produced by victims brains during attacks or
-interactions with non-local attack vectors.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 9 – Countermeasures
+      This chapter addresses this question: Are changing angular momentum velocities a countermeasure to Aharonov-Bohm based neuroweapons as exemplified in the Havana Syndrome. Which is to say enveloping a biological object, like the brain, in a shielding gravitational field impenetrable by unsynched gravitational waves and EM waves. Throughout the cold war and currently there are many reports of EM manipulation of US State Department personnel on assignment in foreign lands, which is known by the term Havana Syndrome. Those suffering from these attacks have physical changes in their brains. This was studied by Dr. Verma and their team by examining the physical properties of brain matter.  This chapter is divided into 3 sections: 
+I. Profiling a Directed Energy Attack Medically Speaking, looks into the study of Verma and Persinger into non-local attacks on the brains of victims.
+II. Technological Briefing, drills down into the physics theories that explain non-local targeting by reviewing such theories as the Aharonov-Bohm effect, spin entanglement, Casimir Effect and GEM Equations.
+III. Brain Profile, a look at EEG studies on Havana Syndrome, non-local targeting and the waves produced by victims brains during attacks or interactions with non-local attack vectors.
+    In the first section we look at creating a profile of an attacked persons brain referencing Verma and Persinger’s work in this area.  I review the specific areas of the Brain, known as Broadmann areas, and how they are affected by EM waves. 
+    In the second section, we look at the technological theories underpinning the use of Aharonov-Bohm effect to induce these changes with a discussion of quantum entanglement of which Dr. Norseen mentioned is the basis of Thought Injection. We look at the role of angular momentum in the process of entanglement, the coupling of gravity and electromagnetics in gravitoelectromagnetics (GEM) as discussed by renowned physicist Dr. Raymond Chiao of the University of California.  We also look at the Casimir Effect as it relates to gravitation and entanglement.  We then study the Poynting Vector-- the directional energy flux of an EM field (EMF) produced by generators studied by Russian-German researcher Dr. Serge Kernbach of the University of Stuttgart. A brief discussion of the skin as medium of transmission is discussed with special attention paid to how lasers are used to affect brain waves through lasers aimed at the skin of a patient and how genetic differences in skin pigmentation affect this process. A technical discussion of remote monitoring and mapping of biological objects is presented via the research of Dr. Kernbach. Then we bring up the discussion of countermeasures to remote influencing through the work of Dr. Michael Persinger and his team in Canada. The mechanics of the countermeasures are discussed including the use of rhythmic point durations of EM potentials in the A-B coil generator of Persinger and how it was derived from the reverse engineering by Dr. Hal Puthoff, an intelligence linked physicist in America. We conclude this section with a discussion of the medical use case for A-B Generators as Transcerebral Magnetic Stimulation devices and it’s relationship to Transcranial Magenetic Stimulation (TMS). 
+     In the third section we review the Brain Profile of an attacked brain and also compare it to epilepsy. We reference the use of EEG for measuring brain activity to localize areas in the brain affected by outside manipulation. In this section we also offer explanations to detractors regarding this technology.  We discuss the brain waves (alpha, beta, theta...) produced by the human brain and how this is altered by these devices. Dr. Persinger’s Harribance Configuration, which was a series of experiments with a psychic named Harribance and how that relates to areas of the brain and malformation of brain matter. Then we explain the exact areas of the brain that are affected and how one can provide a profile to show a person is being attacked.  
+Chapter 10 – Hypnosis in Warfare
+      This chapter looks at the use of Hypnosis in warfare and espionage and how they are related to neuroweapons.  This chapter drills down into specific brain organelles that control hypnotic influence, with a differentiation between Highly Hypnotizables and Low Hypnotizables, the use of suggestion, brain differentiation that explains political differentiation as informed by brain physiological differences between categories of left and right and how that relates to hypnosis. This chapter begins with an introduction into hypnosis and defines high, medium and low hypnotizables and the physiological differences between the different susceptibilities to hypnotic control. Parasitic Consciousness, studies the work of Michael Persinger in studying non-local technology and Epilepsy studies, with a common element found with partial epileptic conditions and the brain profile of those under non-local influence, with reference to an invasive consciousness known as ‘parasitic’. Then we discuss the physiological differences between Left and right (red vs blue) political tendencies and the brain centers involved, where leftists tend to have a different anterior cingulate complex, like less suggestibles-hypnotizables and righties have a different amygdala, which is also found in high hypnotizables, and is used for the purposes of fast reflexion in RC. The amygdala is studied in more detail in the next section and finally we discuss the relationship of obesity and hypnosis as well as voting patterns that can be traced by obesity prevalence in a geographical area. 
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-10 &ndash; Hypnosis in Warfare</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">      <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter looks at the use of Hypnosis in warfare and espionage. 
-Drilling down into specific brain organelles that control hypnotic
-influence, with a differentiation between Highly Hypnotizables and
-Low Hypnotizables, the use of suggestion, brain differentiation that
-explains political differentiation as informed by brain physiological
-differences between categories of left and right. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-Introduction to Hypnosis, high vs low hypnotizables, and brain
-physiological differences.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">II.
-Parasitic Consciousness, studies the work of Michael Persinger in
-studying non-local technology and Epilepsy studies, with a common
-element found with partial epileptic conditions and the brain profile
-of those under non-local influence.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">III.
-Brain in Red vs. Blue politics</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">IV.
-Amygdala in Hypnosis, examines the enlarged amygdalas in highly
-hypnotizables and conservatives.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
-Obesity and Hypnosis, examines the common morbidity of obesity and
-non-local influence effects on the brain.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Chapter 11 – UKUSA Deception Management and Cybernetics
+     This chapter covers the use by western powers, the American and British (UKUSA) military alliance, of ‘remote action’ and the automation of remote action via cybernetics. In this chapter the topics of US Security and Intelligence methods of Effects Based Operations, Reflexive Management, Cost of Actions and Effects and their integration into deceptive games.  In the subsequent section we study the engineering of an Information Warfare Engine, which covers the research of Lockheed-Martin researchers Backus and Glass in the development of automated programs for remote action. Next, we cover the use of Psychological Profiling for Computation which is related to the earlier work of Tarashenko in that it uses neurocognitive science in computation of groups and changing group membership by influencing members of groups. Analytics is then studied, the metrics of measuring effectiveness of the remote action methodologies. Then we see how it was intended to control soldiers in military operations through simulated soldiering, which covers the automation of troop management focusing on the work of Lockheed-Martin scientist Behzadan, which also uses cybernetics to foment instability in groups and societies. Finally, we review the programs UMBRA and SCREAM-- an analysis of the cybernetic programs used to manage groups and societies, as well as armed formations. This section focuses on the work of Lockheed-Martin scientist Xavier, also looks into the Dante Scenario Manager that allows for a text based data input that a computer program (algorithm) uses to make the world look like it’s instructions.
+Appendix and on-line supplement
+    All appendices are at the on-line supplement to this book at https://github.com/autonomous019/Battlespace-of-Mind-Supplement
+Appendix A: General Timelines of Book, timelines of neuroweapons developments
+Appendix B: Timeline of the Wiemar Republic
+Appendix C: Case Study of Targeted Individuals, case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as ‘Targeted Individuals’
+Appendix D: AI and Simulations Architecture
+	a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity
+          b. Serious Games (Simulations), Game AI and Military Intelligence. Covers Reflexive Rewards and Gaming, AI in Simulation Design, the Game World, Agents, Elements of an AI Game, Kinematics in Simulated Worlds. 
+         c. Decision Making, covers the use of AI in making decisions in simulations with Behavior Trees and Goal Oriented Action Planning (GOAP).
+        d. Dialogue and Chatbots in AI Agents
+        e. Emotions in Simulations, the use of emotions in Agents, focusing on the Russian Researcher Tarashenko PAD model.
+        f. Diplomacy
+        g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs. 
+  
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><b>Chapter
-11 &ndash; UKUSA Deception Management and Cybernetics</b></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f">     <font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">This
-chapter covers the use by western powers, the UKUSA military
-alliance, of &lsquo;remote action&rsquo; and the automation of remote
-action via cybernetics.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">I.
-Effects Based Operations, US Reflexive </span><span style="font-weight: normal">Management</span><span style="font-weight: normal">,
-covers Cost of Actions and Effects and deceptive games.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">II.
-Blueprint for an IW Engine, covering the research of Lockheed-Martin
-researchers Backus and Glass.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">III.
-Psychological Profiling for Computation, use of neurocognitive
-science in computation of groups and changing group membership.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">IV.
-Analytics, Measuring Effectiveness, covers the metrics or feedback
-systems used to measure the effect of actions.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">V.
-Simulated Soldiering, covers the automation of troop management
-focusing on the work of Lockheed-Martin scientist Behzadan, focused
-on using cybernetics to foment instability in groups and societies.</span></font></font></font></p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<font color="#24292f"><font face="Arial, sans-serif"><font size="3" style="font-size: 12pt"><span style="font-weight: normal">VI.
-UMBRA and SCREAM, an analysis of the cybernetic programs used to
-manage groups and socieities, as well as armed formations. Focuses on
-the work of Lockheed-Martin scientist Xavier, also looks into the
-Dante Scenario Manager that allows for a text based data input that a
-computer program (algorithm) uses to make the world look like it&rsquo;s
-instructions. </span></font></font></font>
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
+Appendix E: Timeline on Development of Computation and Computer Hardware
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
 
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
-
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
-
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
-
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
-
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
-
-</p>
-<p style="margin-bottom: 0.17in; font-variant: normal; letter-spacing: normal; font-style: normal; orphans: 2; widows: 2">
-<br/>
-<br/>
-
-</p>
 
 
 
