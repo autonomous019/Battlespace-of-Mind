@@ -17,6 +17,9 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 
 <p>&nbsp;</p>
+<h4>These files are the pre-edited pre-press edition, the very rough drafts, download the book pdf above for the free edited version.</h4>
+
+<b>TABLE OF CONTENTS</b>
 
 <li><a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Introduction.pdf">Introduction</a></li>
 
