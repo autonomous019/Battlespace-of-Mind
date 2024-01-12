@@ -12,8 +12,8 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <p>&nbsp;</p>
 
 
-
-<img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true">
+<a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing"
+<img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true"></a>
 
 
 <p>&nbsp;</p>
