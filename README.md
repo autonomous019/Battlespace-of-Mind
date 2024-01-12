@@ -1,3 +1,5 @@
+Free eBook Download: <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing</a>
+
 # Battlespace of Mind: AI and Cybernetics in Information Warfare
 by Mícheál Seosamh MacCiaráin 2021 macciarain@protonmail.com
 Independent Cybersecurity Consultant
@@ -12,7 +14,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <p>&nbsp;</p>
 
 
-<a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing"
+<a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">
 <img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true"></a>
 
 
