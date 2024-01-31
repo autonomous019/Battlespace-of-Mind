@@ -21,7 +21,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
-<h4>These files below are the pre-edited pre-press edition, the very rough drafts, download the book pdf above for the free edited version. [not yet released, should be available by Jan. 31, 2024</h4>
+<h4>These files below are the pre-edited pre-press edition, the very rough drafts, download the <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">book pdf</a> above for the free edited version. 
 
 <b>TABLE OF CONTENTS</b>
 
