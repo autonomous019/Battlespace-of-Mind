@@ -71,7 +71,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
     </li><li>d. Dialogue and Chatbots in AI Agents
     </li><li>e. Emotions in Simulations, the use of emotions in Agents, focusing on the Russian Researcher Tarashenko PAD model.
     </li><li>f. Diplomacy
-g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs.
+    </li><li></li>g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs.
     </li></ul>
   </quote>
     </p>
