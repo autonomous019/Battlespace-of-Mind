@@ -80,7 +80,7 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <li>Appendix E: Timeline on Development of Computation  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20E%20-%20Computer%20Development%20Timeline.pdf?raw=true">Timeline on how computation technology developed</a></li>
 <P>&nbsp;</P>
 
-<P><a href="https://drive.google.com/file/d/1z3GKli6H6at97qxwYcpmknx3J5ZXZl2v/view?usp=drive_link">Collection of Research Papers cited in this work</a></P>
+<P>Link to <a href="https://drive.google.com/file/d/1z3GKli6H6at97qxwYcpmknx3J5ZXZl2v/view?usp=drive_link">Collection of Research Papers cited in this work</a></P>
 
 
 <b>Introduction</b><br /><br />
