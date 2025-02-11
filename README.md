@@ -80,6 +80,8 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <li>Appendix E: Timeline on Development of Computation  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20E%20-%20Computer%20Development%20Timeline.pdf?raw=true">Timeline on how computation technology developed</a></li>
 <P>&nbsp;</P>
 
+<P><a href="https://drive.google.com/file/d/1z3GKli6H6at97qxwYcpmknx3J5ZXZl2v/view?usp=drive_link">Collection of Research Papers cited in this work</a></P>
+
 
 <b>Introduction</b><br /><br />
       This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocognitive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.<br />
