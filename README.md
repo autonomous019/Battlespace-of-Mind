@@ -47,7 +47,8 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 <li>Chapter 10: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.pdf">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
 
-<li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.pdf">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a></li>
+<li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.pdf">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a><br /><br />
+see <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/agentic_ai_history.md">this discussion regarding Sandia research into Agentic AI and the modern commercial development of Agentic AI, Sandia research was conducted 15 years before present.</a> </li>
 
 
 <br />
