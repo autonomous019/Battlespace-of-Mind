@@ -33,59 +33,6 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 <b>TABLE OF CONTENTS</b>
 
 
-<li>Chapter 1 - <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%201%20-%20German%20Military%20Intelligence%20WW1%20to%20WW2.pdf">Post WWI Information Warfare Technology and the Black Reichswehr</a></li>
-
-<li>Chapter 2: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%202%20-%20Psyops%20and%20Information%20Operations.pdf"> Information Warfare: Information Operations, Psychological Operations, Narrative Networks, Brain-Computer-Interfaces, Neocortical Warfare</a></li>
-
-<li>Chapter 3: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%203%20-%20Neuroweapons.pdf">Neuroweapons: 1919-1945 (Soviet Union and Nazi Germany)</a></li>
-
-
-<li>Chapter 4: Lessons from an American Weapons Designer (Dr. John Norseen) <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%204%20-%20Lessons%20from%20an%20American%20Weapons%20Designer.pdf">AI and Weaponization: Lethal Autonomous Weapons System (LAWS), AI in Mass Surveillance, AI and Neuroweapons, Narrative AI</a></li>
-
-<li>Chapter 5: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%205-%20Automated%20Control%20and%20Tracking.pdf">AI, Cybernetics, Automated Control and Reflexive Management</a> Cybernetic Reflexive Control: Soviet and UKUSA efforts at control of systems both mechanical and biological</a></li>
-
-<li>Chapter 6:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%206%20-%20Physics%20of%20Neuroweapons.pdf">Physics of Neuroweapons: Gravitational Waves and Remote Sensing</a></li>
-
-<li>Chapter 7: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%207%20-%20Radar%20and%20Neuroweapons.pdf">Radar and Neuroweapons</a> The use of Radar in Neuroweapons applications is discussed, as well as radar holography and the human eye as a fractal antenna.</li>
-
-<li>Chapter 8: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%208%20-%20Quantum%20Consciousness.pdf">Quantum Consciousness: Quantum Shift Keying, Objective Reduction of Wave, Microtubules, History of Development in Neuroweapons</a></li>
-
-<li>Chapter 9: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%209%20-%20Are%20Changing%20Angular%20Velocity%20Magnetic%20Fields.pdf"> Counter-Measures using the Ahronov-Bohm Effect</a> Are Changing Angular Velocity Magnetic Fields a Countermeasure to Non-Local Pulsed Attacks?</li>
-
-<li>Chapter 10: <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2010%20-%20Hypnosis%20in%20Warfare.pdf">Hypnosis and Warfare: Studies Brain Physiology and use of Weaponized Hypnosis in Espionage</a></li>
-
-<li>Chapter 11:  <a href="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/Chapter%2011-%20US%20Deception%20Management.pdf">UKUSA Deception Management and Cybernetics: Effects, Memes and Terrorists</a><br /><br />
-see <a href="https://github.com/autonomous019/foundations-of-ai-cybersecurity/blob/main/agentic_ai_history.md">this discussion regarding Sandia research into Agentic AI and the modern commercial development of Agentic AI, Sandia research was conducted 15 years before present.</a> </li>
-
-
-<br />
-<b>Appendices:</b>
-<br />
-
-
-<li>Appendix A: Timeline  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20A_%20Timeline.pdf?raw=true">General Timeline of the Subjects covered in this book</a></li>
-
-<li>Appendix B: Timeline of Wiemar Republic  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20B_%20Weimar%20Republic%20Timeline.pdf?raw=true">historical account of the Weimar era of Germany</a></li>
-
-
-<li>Appendix C: Case Study of Targeted Individuals  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20C%20Neuroweapons%20Case%20Study_%20Targeted%20Individuals.pdf?raw=true">Case study of internet user group dedicated to people claiming to be targeted by neuroweapons, popularly known as "Targeted Individuals"</a></li>
-
-<li>Appendix D: <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20D-%20Play%20AI--%20Machine%20Learning%20in%20VIdeo%20Games.pdf?raw=true">Play AI: Machine Learning in Video Games [free book] </a>
-<p style="text-indent: 40px">
-  <quote>
-  <ul><li>a. AI, includes topics on Linear Regression, Problems of Statistical Methods, Machine Bias and Algorithmic Complexity</li>
-<li>b. Serious Games (Simulations), Game AI and Military Intelligence. Covers Reflexive Rewards and Gaming, AI in Simulation Design, the Game World, Agents, Elements of an AI Game, Kinematics in Simulated Worlds.
-    </li><li>c. Decision Making, covers the use of AI in making decisions in simulations with Behavior Trees and Goal Oriented Action Planning (GOAP).
-    </li><li>d. Dialogue and Chatbots in AI Agents
-    </li><li>e. Emotions in Simulations, the use of emotions in Agents, focusing on the Russian Researcher Tarashenko PAD model.
-    </li><li>f. Diplomacy
-    </li><li></li>g. Real Time Strategy Simulations including the use of Neuroevolution- when computers write their own game programs.
-    </li></ul>
-  </quote>
-    </p>
-</li>
-
-<li>Appendix E: Timeline on Development of Computation  <a href="https://github.com/autonomous019/Battlespace-of-Mind-Supplement/blob/main/Appendix%20E%20-%20Computer%20Development%20Timeline.pdf?raw=true">Timeline on how computation technology developed</a></li>
 <P>&nbsp;</P>
 
 <P>Link to <a href="https://drive.google.com/file/d/1z3GKli6H6at97qxwYcpmknx3J5ZXZl2v/view?usp=drive_link">Collection of Research Papers cited in this work</a></P>
