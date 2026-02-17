@@ -29,10 +29,13 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 ## Video Presentation: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb">https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb</a>
 
+
+
+## Next Book in the Series: <a href="https://github.com/autonomous019/dark-control/tree/main">Dark Control: AI and Humanity's End [Trine Day, 2026]</a>
+
+
+
 	
-<b>TABLE OF CONTENTS</b>
-
-
 <P>&nbsp;</P>
 
 <P>Link to <a href="https://drive.google.com/file/d/1z3GKli6H6at97qxwYcpmknx3J5ZXZl2v/view?usp=drive_link">Collection of Research Papers cited in this work</a></P>
