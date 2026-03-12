@@ -4,7 +4,7 @@ Free eBook Download: <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4M
 by Mícheál Seosamh MacCiaráin 2021 macciarain@protonmail.com
 Independent Cybersecurity Consultant
 
-Note: This repo will be updated soon with final polished versions and is in process of being distributed and published by <a href="https://www.trineday.com/">Trine Day Publishing</a> in early 2024. 
+
 
 This book is an investigation into cybernetics, automation, AI, cognitive science and physics for the purposes of Information Warfare. Specifically, focusing on the particular area of using neurocognitive science for the purposes of conducting warfare in the battlespace of the mind, information warfare targeting the psyche known as neuroweapons, a biological weapon.
 
@@ -12,6 +12,9 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 
 
 <p>&nbsp;</p>
+
+## Video Explainers:
+Each chapter has a video that gives an overview of that chapter, plus supplementary materials are explained: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb">https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb</a>
 
 <p align="center"><b>click on book cover to download <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">free eBook PDF</a></b></p>
 <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">
