@@ -16,6 +16,8 @@ It is a part of cybersecurity studies as it relates to the cyber of both machine
 ## Video Explainers:
 Each chapter has a video that gives an overview of that chapter, plus supplementary materials are explained: <a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb">https://www.youtube.com/playlist?list=PLnRK_n3FKKrDTJc6olEE9UIf0DgpvkoYb</a>
 
+<hr>
+
 <p align="center"><b>click on book cover to download <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">free eBook PDF</a></b></p>
 <a href="https://drive.google.com/file/d/142VRVDXCo5R4R3C4MQXszDbXOZo4y2Vm/view?usp=sharing">
 <img src="https://github.com/autonomous019/Battlespace-of-Mind/blob/master/battle_space_cover.png?raw=true"></a>
@@ -158,15 +160,10 @@ Appendix E: Timeline on Development of Computation and Computer Hardware
 
 <li><a href="https://github.com/autonomous019/ahronov-bohm-cybersecurity">Ahronov-Bohm Effect Cybersecurity Countermeasures to Neuroweapons</a> Using Ahronov-Bohm effect to firewall the human mind and brain implant technology.</li>
 
-<li><a href="https://github.com/autonomous019/entanglement-medicine">Entanglement Medicine</a>, Ahronov-Bohm effect induction of medicinals through Electro-Magnetic Resonance instead of the normal electrochemical pathways. 
-
-<li><a href="https://github.com/autonomous019/entanglement-climate-change">Entanglement and Climate Change</a> quantum entanglement in Cleaning the Environment, providing new energy sources through non-radioactive waste, clean nuclear energy, higher fuel efficiency in CO2 based fuels, etc. </a>
   
   </li>
 
  
 <hr>
 
-  <h3>Video Presentation covering Information Warfare and Technology</h3>
-  
-<a href="https://www.youtube.com/playlist?list=PLnRK_n3FKKrBNgs8kbQMdpz-3wbTQr28k">Information Warfare Tutorial for Left-Libertarians (aka Progressives)</a>
+
